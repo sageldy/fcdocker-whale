@@ -1,4 +1,4 @@
-node ('master') {
+node {
   //directive 1
   def myHome
 
